@@ -1,6 +1,7 @@
 # EE369-mnist-hw-519030910342
 
 Name:siyu mao
+
 Student ID：519030910342
 
 [`numpy_matplotlib_sklearn.ipynb`](numpy_matplotlib_sklearn.ipynb): for numpy, matplotlib and sklearn.
@@ -18,3 +19,5 @@ Q4: Train accuracy:94.23% ; Test accracy:90.10%.
 
 Q6: Training loss: 0.0554, Training accuracy: 98.71%
     Testing loss: 0.0670, Testing accuracy: 98.28%
+
+
